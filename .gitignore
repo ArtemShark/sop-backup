@@ -1,0 +1,7 @@
+# Build output
+sop-backup
+src/*.o
+*.o
+
+# OS files
+.DS_Store
